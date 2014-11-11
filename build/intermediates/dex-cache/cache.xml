@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\AlumnoT\AndroidStudioProjects\Mariano\app\build\intermediates\pre-dexed\debug\classes-af68280ccb8c82d3054628725e0451c7b75fc856.jar"
+        jar="C:\Users\AlumnoT\AndroidStudioProjects\Mariano\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Users\AlumnoT\AndroidStudioProjects\Mariano\app\build\intermediates\pre-dexed\debug\classes-0f56b4b8c873bb809151b6f42223182ee091608f.jar"
+        jar="C:\Users\AlumnoT\AndroidStudioProjects\Mariano\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\AlumnoT\AndroidStudioProjects\Mariano\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-088ff4eb3155a9c8afb25c26918d624d0a177290.jar"
+        jar="C:\Users\AlumnoT\AndroidStudioProjects\Mariano\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\AlumnoT\AndroidStudioProjects\Mariano\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-37c7b7fafa6cc6ea80669571aa44f87db090533e.jar"
+        jar="C:\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
